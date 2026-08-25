@@ -23,7 +23,7 @@ repository               : "eduardoharo13/eduardoharo13.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpeg"
   name             : "Eduardo Haro Abanto"
   bio              : "Economist and Data Analyst specializing in applied econometrics, labor economics, and statistics."
   location         : "Lima, Peru"
@@ -52,7 +52,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
