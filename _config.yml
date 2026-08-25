@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-PE"
-theme                    : "null"
+remote_theme             : "academicpages/academicpages.github.io"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Eduardo Haro Abanto"
 title_separator          : "-"
