@@ -21,9 +21,9 @@ with [Rafael Novella](https://sites.google.com/site/rafaelnovella/) and David Ro
 
    
 ## Work in progress
-*“Inequality and Inclusion: The Long-Term Effects of Peru's Juntos Program among Indigenous and Non-Indigenous Children” (with J. León, S. Parker and N. Testa)
-*“Advanced Digital Skills Training and Labor Market Outcomes: Experimental Evidence from Peru” (with R. Freund, R. Novella and D. Rosas-Shady). 
-*“From Tasks to Transitions: Characterizing Green Employment in Latin America and the Caribbean” (with D. Baptista, R. Freund and R. Novella) 
+* “Inequality and Inclusion: The Long-Term Effects of Peru's Juntos Program among Indigenous and Non-Indigenous Children” (with J. León, S. Parker and N. Testa)
+* “Advanced Digital Skills Training and Labor Market Outcomes: Experimental Evidence from Peru” (with R. Freund, R. Novella and D. Rosas-Shady). 
+* “From Tasks to Transitions: Characterizing Green Employment in Latin America and the Caribbean” (with D. Baptista, R. Freund and R. Novella) 
 
 <script>
 function myFunction(id) {
