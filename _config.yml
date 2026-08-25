@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-PE"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Eduardo Haro"
+title                    : "Eduardo Haro Abanto"
 title_separator          : "-"
-name                     : &name "Eduardo Haro"
+name                     : &name "Eduardo Haro Abanto"
 description              : &description "Academic website and research portfolio of Eduardo Haro, focusing on Labor Economics and Applied Econometrics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://eduardoharo13.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,24 +23,20 @@ repository               : "eduardoharo13/eduardoharo13.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Eduardo Haro"
-  bio              : "Economist and Data Analyst specializing in applied econometrics, labor economics, and data engineering."
+  avatar           : "profile2.png"
+  name             : "Eduardo Haro Abanto"
+  bio              : "Economist and Data Analyst specializing in applied econometrics, labor economics, and statistics."
   location         : "Lima, Peru"
-  employer         : "Research and Data Science Analytics"
-  uri              : https://eduardoharo.github.io
   email            : "eduardoharo13@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-3514-6119"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
